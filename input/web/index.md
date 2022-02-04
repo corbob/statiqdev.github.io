@@ -1,5 +1,6 @@
 Title: About Statiq Web
 BreadcrumbTitle: Web
+ShowInNavigation: false
 Xref: web
 ---
 Statiq Web is a powerful static web site generation toolkit suitable for most use cases. It's built on top of [Statiq Framework](/framework) so you can always extend or customize it beyond those base capabilities as well.
